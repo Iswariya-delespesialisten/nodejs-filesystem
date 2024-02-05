@@ -6,20 +6,6 @@ A Node.js application that provides a simple file management system with RESTful
 
 The deployed Website: https://nodejs-filesystem-3xc8.onrender.com
 
-### API Request
-
-#### Create the file of current date and time
-
-<h4>End Point: createTextFile</h4>
-https://nodejs-filesystem-3xc8.onrender.com/createTextFile
-
-#### Get the files from server
-
-<h4>End Point: getTextFile</h4>
-https://nodejs-filesystem-3xc8.onrender.com/getTextFiles
-
-## Last Comitted Hash ID: 2cb84ab12b8761c98d46785c1b0b95ad70715c3a
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -36,25 +22,7 @@ https://nodejs-filesystem-3xc8.onrender.com/getTextFiles
 
 - Node.js and npm installed on your machine.
 
-### Installation
 
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/Shanmugamrskfamily/nodejs-filesystem.git
-   ```
-
-2. Navigate to the project directory:
-
-```shell
-cd nodejs-filesystem
-```
-
-3. Install the dependencies:
-
-```shell
-npm install
-```
 
 ## Usage
 
@@ -81,19 +49,9 @@ http://localhost:3000/getTextFiles
 - You will receive a response from the server containing the list of text files created using the previous POST requests. The server's response the file names of text files.
 - You can view the list of text files in the Postman response panel.
 
-## API Documentation
 
-You can find the API documentation for this project https://documenter.getpostman.com/view/28858691/2s9YC7SBXQ
 
-## Contributing
 
-If you'd like to contribute to this project, please follow these guidelines:
-Fork the project.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with descriptive messages.
-Push your changes to your fork.
-Submit a pull request to the main branch of the original repository.
-Please make sure to update tests as appropriate.
 
 ## License
 
